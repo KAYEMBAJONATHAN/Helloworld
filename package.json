@@ -7,6 +7,6 @@
     "stylelint-scss": "^3.21.0"
   },
   "dependencies": {
-    "bootstrap": "^5.2.3"
+    
   }
 }
